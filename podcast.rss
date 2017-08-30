@@ -16,7 +16,7 @@
 	<atom:link href="http://codetimecn.com/podcast.rss" rel="self" type="application/rss+xml" />
 	<link>http://codetimecn.com</link>
 	<description>代码时间是一个面向程序员的中文播客节目, 致力于通过语音的方式传播程序员的正能量</description>
-	<lastBuildDate>Tue, 29 Aug 2017 15:54:57 GMT</lastBuildDate>
+	<lastBuildDate>Wed, 30 Aug 2017 06:46:45 GMT</lastBuildDate>
 	<language>zh</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -57,13 +57,13 @@
 		<link>http://codetimecn.com/episodes/writing</link>
 		<pubDate>Tue, 29 Aug 2017 00:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://codetimecn.com/episodes/writing</guid>
-		<description>越来越多的程序猿意识到写作和分享的重要性。如何坚持长期协作，如何参与开源分享？我们请到justjavac来分享他的经验。</description>
+		<description>越来越多的程序猿意识到写作和分享的重要性。如何坚持长期写作，如何参与开源分享？我们请到justjavac来分享他的经验。</description>
 
         <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2017/08/29/2621634173732138502_hd.mp3" type="audio/mpeg" />
 
-        <itunes:summary><![CDATA[越来越多的程序猿意识到写作和分享的重要性。如何坚持长期协作，如何参与开源分享？我们请到justjavac来分享他的经验。 See <a href="http://codetimecn.com/episodes/writing">show notes link</a> for resources.]]></itunes:summary>
+        <itunes:summary><![CDATA[越来越多的程序猿意识到写作和分享的重要性。如何坚持长期写作，如何参与开源分享？我们请到justjavac来分享他的经验。 See <a href="http://codetimecn.com/episodes/writing">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:46:00</itunes:duration>
-		<itunes:subtitle>越来越多的程序猿意识到写作和分享的重要性。如何坚持长期协作，如何参与开源分享？我们请到justjavac来分享他的经验。</itunes:subtitle>
+		<itunes:subtitle>越来越多的程序猿意识到写作和分享的重要性。如何坚持长期写作，如何参与开源分享？我们请到justjavac来分享他的经验。</itunes:subtitle>
 		<itunes:author>Xi Xiao</itunes:author>
 		<itunes:explicit>clean</itunes:explicit>
 		<itunes:block>no</itunes:block>
