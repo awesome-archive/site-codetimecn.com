@@ -16,7 +16,7 @@
 	<atom:link href="http://codetimecn.com/podcast.rss" rel="self" type="application/rss+xml" />
 	<link>http://codetimecn.com</link>
 	<description>代码时间是一个面向程序员的中文播客节目, 致力于通过语音的方式传播程序员的正能量</description>
-	<lastBuildDate>Sun, 14 Jan 2018 20:58:59 GMT</lastBuildDate>
+	<lastBuildDate>Sun, 14 Jan 2018 21:11:06 GMT</lastBuildDate>
 	<language>zh</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -116,7 +116,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/writing</guid>
 		<description>越来越多的程序猿意识到写作和分享的重要性。如何坚持长期写作，如何参与开源分享？我们请到justjavac来分享他的经验。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2017/08/29/2621634173732138502_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJXlmli0aw7AY6AVTj5OsAVV8380.m4a?channel=rss&amp;album_id=4867505&amp;track_id=49046547&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group30/M07/29/69/wKgJXlmli0aw7AY6AVTj5OsAVV8380.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[越来越多的程序猿意识到写作和分享的重要性。如何坚持长期写作，如何参与开源分享？我们请到justjavac来分享他的经验。 See <a href="http://codetimecn.com/episodes/writing">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:46:00</itunes:duration>
@@ -135,7 +135,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/e_e</guid>
 		<description>Erlang最早是为了电话网络开发而设计的语言，它高并发、热部署的优秀属性近些年得到不少关注。Elixir是一个基于Erlang虚拟机的函数式语言。 这一期Falood跟我们来分享他对这两门语言的理解。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2017/07/23/2614616927314654214_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJSVlzuJ-D-hPUAbKCNjzaEBw260.m4a?channel=rss&amp;album_id=4867505&amp;track_id=44800602&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group31/M09/5A/22/wKgJSVlzuJ-D-hPUAbKCNjzaEBw260.m4ahttp://jt.ximalaya.com/wKgJSVlzuJ-D-hPUAbKCNjzaEBw260.m4a?channel=rss&amp;album_id=4867505&amp;track_id=44800602&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group31/M09/5A/22/wKgJSVlzuJ-D-hPUAbKCNjzaEBw260.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[Erlang最早是为了电话网络开发而设计的语言，它高并发、热部署的优秀属性近些年得到不少关注。Elixir是一个基于Erlang虚拟机的函数式语言。 这一期Falood跟我们来分享他对这两门语言的理解。 See <a href="http://codetimecn.com/episodes/e_e">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:58:46</itunes:duration>
@@ -154,7 +154,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/devops_tooling</guid>
 		<description>Devops 是一个热门但是让人迷惑的技术名词。希望本期节目可以让听众朋友们对 devops经常使用的工具 有一个清晰的认识，进而在自己的团队中推行 devops。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2017/05/14/2601618258184555526_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJR1kXTluDqDdxAa0AhFM_SQQ811.m4a?channel=rss&amp;album_id=4867505&amp;track_id=37890611&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group27/M02/A8/BF/wKgJR1kXTluDqDdxAa0AhFM_SQQ811.m4ahttp://jt.ximalaya.com/wKgJR1kXTluDqDdxAa0AhFM_SQQ811.m4a?channel=rss&amp;album_id=4867505&amp;track_id=37890611&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group27/M02/A8/BF/wKgJR1kXTluDqDdxAa0AhFM_SQQ811.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[Devops 是一个热门但是让人迷惑的技术名词。希望本期节目可以让听众朋友们对 devops经常使用的工具 有一个清晰的认识，进而在自己的团队中推行 devops。 See <a href="http://codetimecn.com/episodes/devops_tooling">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:57:53</itunes:duration>
@@ -173,7 +173,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/english2</guid>
 		<description>程序员是一门每天都需要接触英语的职业，但是有多少程序员掌握的都是哑巴英语？不管你在读书还是在工作，如果你也希望能掌握英语的地道口语，让别人羡慕你的发音，听听这期嘉宾Henry老师的传道授业吧。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2017/04/17/2596759662324806662_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJR1jnVHbTK34hAVAQG_k_WwU181.m4a?channel=rss&amp;album_id=4867505&amp;track_id=34756440&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group27/M00/44/01/wKgJR1jnVHbTK34hAVAQG_k_WwU181.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[程序员是一门每天都需要接触英语的职业，但是有多少程序员掌握的都是哑巴英语？不管你在读书还是在工作，如果你也希望能掌握英语的地道口语，让别人羡慕你的发音，听听这期嘉宾Henry老师的传道授业吧。 See <a href="http://codetimecn.com/episodes/english2">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:45:08</itunes:duration>
@@ -192,7 +192,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/english</guid>
 		<description>程序员是一门每天都需要接触英语的职业，但是有多少程序员掌握的都是哑巴英语？不管你在读书还是在工作，如果你也希望能掌握英语的地道口语，让别人羡慕你的发音，听听这期嘉宾Henry老师的传道授业吧。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2017/04/17/2596761384606733318_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJWFjnUjmTQmoSAVjIa9eR3EI662.m4a?channel=rss&amp;album_id=4867505&amp;track_id=34755881&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group26/M03/48/4F/wKgJWFjnUjmTQmoSAVjIa9eR3EI662.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[程序员是一门每天都需要接触英语的职业，但是有多少程序员掌握的都是哑巴英语？不管你在读书还是在工作，如果你也希望能掌握英语的地道口语，让别人羡慕你的发音，听听这期嘉宾Henry老师的传道授业吧。 See <a href="http://codetimecn.com/episodes/english">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:46:31</itunes:duration>
@@ -211,7 +211,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/test</guid>
 		<description>如今流行一句话：&#39;Github上没有自动测试的项目都是耍流氓&#39;。这一期邀请到ThoughtWorks的软件测试工程师秦五一来分享他对软件测试的理解。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2017/03/25/2592470501830490630_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJWFjWVC_jYyGiAfF6sf4zrTc752.m4a?channel=rss&amp;album_id=4867505&amp;track_id=33595933&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group26/M06/9D/7E/wKgJWFjWVC_jYyGiAfF6sf4zrTc752.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[如今流行一句话：&#39;Github上没有自动测试的项目都是耍流氓&#39;。这一期邀请到ThoughtWorks的软件测试工程师秦五一来分享他对软件测试的理解。 See <a href="http://codetimecn.com/episodes/test">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:67:16</itunes:duration>
@@ -230,7 +230,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/manager</guid>
 		<description>很多技术人才走向管理岗位的时候都会出现一些“水土不服”，这其中的角色转变会遇到什么困难呢？应该怎么解决呢？我们请到了陈皓老师来聊一聊这个问题。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2017/02/12/2584741132447417350_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJLlifZFCxktKRAhSG1C1l1KA563.m4a?channel=rss&amp;album_id=4867505&amp;track_id=30345055&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group22/M07/7B/FE/wKgJLlifZFCxktKRAhSG1C1l1KA563.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[很多技术人才走向管理岗位的时候都会出现一些“水土不服”，这其中的角色转变会遇到什么困难呢？应该怎么解决呢？我们请到了陈皓老师来聊一聊这个问题。 See <a href="http://codetimecn.com/episodes/manager">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:72:00</itunes:duration>
@@ -249,7 +249,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/publish</guid>
 		<description>程序员是热爱分享的群体，大部分程序员都有自己的个人博客来分享技术文章，但是出版过技术书籍的就比较少了。今天我们请到了黄健宏来跟大家聊聊他技术书籍出版的经历，希望这期节目可以让代码时间的听众中多出几个技术书籍的作者。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2017/01/22/2580948738601762822_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJNFiEeHzx8pDJAdhMQ2yefg0209.m4a?channel=rss&amp;album_id=4867505&amp;track_id=29271676&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group23/M02/DB/4A/wKgJNFiEeHzx8pDJAdhMQ2yefg0209.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[程序员是热爱分享的群体，大部分程序员都有自己的个人博客来分享技术文章，但是出版过技术书籍的就比较少了。今天我们请到了黄健宏来跟大家聊聊他技术书籍出版的经历，希望这期节目可以让代码时间的听众中多出几个技术书籍的作者。 See <a href="http://codetimecn.com/episodes/publish">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:63:43</itunes:duration>
@@ -268,7 +268,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/newmedia</guid>
 		<description>这一期主播Sky和嘉宾郝培强(Tinyfool)聊一期新媒体的运作。Tiny在聊天中分享了他运作各种新媒体的经验和收获，希望他热爱分享的态度能够帮助到更多想接触新媒体的朋友。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/12/15/2573941593947586054_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJMFhS7HqShIfEAXnGrJKJkjg007.m4a?channel=rss&amp;album_id=4867505&amp;track_id=26988817&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group24/M00/C9/09/wKgJMFhS7HqShIfEAXnGrJKJkjg007.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[这一期主播Sky和嘉宾郝培强(Tinyfool)聊一期新媒体的运作。Tiny在聊天中分享了他运作各种新媒体的经验和收获，希望他热爱分享的态度能够帮助到更多想接触新媒体的朋友。 See <a href="http://codetimecn.com/episodes/newmedia">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:50:58</itunes:duration>
@@ -287,7 +287,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/lisp</guid>
 		<description>这一期邀请到韩祝鹏跟我们分享Lisp语言的入门知识以及他研究小众语言获得的快乐，希望大家能对这门历史悠久底蕴深厚的语言有更多的了解。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/11/27/2570548979952973830_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJM1g6kuizVP4mARbcPzBRM80877.m4a?channel=rss&amp;album_id=4867505&amp;track_id=25888083&amp;uid=51547393&amp;jt=http://aod.tx.xmcdn.com/group22/M06/6D/8C/wKgJM1g6kuizVP4mARbcPzBRM80877.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[这一期邀请到韩祝鹏跟我们分享Lisp语言的入门知识以及他研究小众语言获得的快乐，希望大家能对这门历史悠久底蕴深厚的语言有更多的了解。 See <a href="http://codetimecn.com/episodes/lisp">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:37:46</itunes:duration>
@@ -306,7 +306,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/datamining</guid>
 		<description>Justin(龙星镖局)这一期给我们介绍数据挖掘的基础知识，相关辅助的软件工具,以及数据挖掘工程师到底是一份怎样的工作。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/11/02/2565946089498439174_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJNVgZ23vQCWoRAeDYO-DVlVw463.m4a?channel=rss&amp;album_id=4867505&amp;track_id=24390329&amp;uid=51547393&amp;jt=http://aod.tx.xmcdn.com/group24/M04/19/48/wKgJNVgZ23vQCWoRAeDYO-DVlVw463.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[Justin(龙星镖局)这一期给我们介绍数据挖掘的基础知识，相关辅助的软件工具,以及数据挖掘工程师到底是一份怎样的工作。 See <a href="http://codetimecn.com/episodes/datamining">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>1:04:52</itunes:duration>
@@ -325,7 +325,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/softskill</guid>
 		<description>对程序员来说写代码这个硬技能之外还有不少对职业生涯非常重要的软技能，这一期我们请到《软技能 - 代码之外的生存之道》一书的译者王小刚来和大家分享他对软技能的理解。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/10/10/2561536141631756294_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJJVf6kZTzSqgkAaMiz6HV6e0094.m4a?channel=rss&amp;album_id=4867505&amp;track_id=22951541&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group18/M06/68/02/wKgJJVf6kZTzSqgkAaMiz6HV6e0094.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[对程序员来说写代码这个硬技能之外还有不少对职业生涯非常重要的软技能，这一期我们请到《软技能 - 代码之外的生存之道》一书的译者王小刚来和大家分享他对软技能的理解。 See <a href="http://codetimecn.com/episodes/softskill">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:56:33</itunes:duration>
@@ -344,7 +344,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/rust-go</guid>
 		<description>Rust 和 Go 语言是近年来比较火的新语言，这一期我们请到了PingCAP公司的黄东旭（co-founder, CTO）来和我们聊聊 Rust 和 Go 语言之间的区别。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/09/25/2558859629683325446_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJJFfoMPbCli5lAiNlAgqiEhU733.m4a?channel=rss&amp;album_id=4867505&amp;track_id=22158863&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group17/M0A/33/4E/wKgJJFfoMPbCli5lAiNlAgqiEhU733.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[Rust 和 Go 语言是近年来比较火的新语言，这一期我们请到了PingCAP公司的黄东旭（co-founder, CTO）来和我们聊聊 Rust 和 Go 语言之间的区别。 See <a href="http://codetimecn.com/episodes/rust-go">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>1:13:51</itunes:duration>
@@ -363,7 +363,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/es20152</guid>
 		<description>下集：学习JavaScript的人对EcmaScript(ES)标准一定不会陌生。这次请到贺师俊来介绍ES2015标准里的重要特性。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/09/12/2556428147765107718_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJJFfWMTfCqAk0AWlLHviFayE713.m4a?channel=rss&amp;album_id=4867505&amp;track_id=21333785&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group17/M08/F8/6F/wKgJJFfWMTfCqAk0AWlLHviFayE713.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[下集：学习JavaScript的人对EcmaScript(ES)标准一定不会陌生。这次请到贺师俊来介绍ES2015标准里的重要特性。 See <a href="http://codetimecn.com/episodes/es20152">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:48:44</itunes:duration>
@@ -382,7 +382,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/es2015</guid>
 		<description>上集：学习JavaScript的人对EcmaScript(ES)标准一定不会陌生。这次请到贺师俊来介绍ES2015标准里的重要特性。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/09/12/2556423698178927622_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJK1fWLTGzMk0xAbIugpSMnM4136.m4a?channel=rss&amp;album_id=4867505&amp;track_id=21331660&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group19/M01/F8/A1/wKgJK1fWLTGzMk0xAbIugpSMnM4136.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[上集：学习JavaScript的人对EcmaScript(ES)标准一定不会陌生。这次请到贺师俊来介绍ES2015标准里的重要特性。 See <a href="http://codetimecn.com/episodes/es2015">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:58:53</itunes:duration>
@@ -401,7 +401,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/prolog</guid>
 		<description>Prolog是一门建立在逻辑学的基础理论之上的逻辑编程语言。这次段子手王四哥来跟我们分享他对Prolog的理解。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/08/26/2553197945810667014_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJJle_SDOiFChWAWqD5JUygZI793.m4a?channel=rss&amp;album_id=4867505&amp;track_id=20497935&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group19/M03/BC/0F/wKgJJle_SDOiFChWAWqD5JUygZI793.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[Prolog是一门建立在逻辑学的基础理论之上的逻辑编程语言。这次段子手王四哥来跟我们分享他对Prolog的理解。 See <a href="http://codetimecn.com/episodes/prolog">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:48:55</itunes:duration>
@@ -420,7 +420,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/iot</guid>
 		<description>物联网IoT是下一个可预见改变人类连接方式的科技。嘉宾郑晔分享他对物联网的理解以及他所在公司开发的物联网JavaScript编程平台Ruff。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/08/16/2551448869772486150_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJJVey2DCTLnisAfue49MKGow918.m4a?channel=rss&amp;album_id=4867505&amp;track_id=20022457&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group18/M06/99/8C/wKgJJVey2DCTLnisAfue49MKGow918.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[物联网IoT是下一个可预见改变人类连接方式的科技。嘉宾郑晔分享他对物联网的理解以及他所在公司开发的物联网JavaScript编程平台Ruff。 See <a href="http://codetimecn.com/episodes/iot">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>1:08:30</itunes:duration>
@@ -439,7 +439,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/frp</guid>
 		<description>Binding.scala是杨博开发的一个能在JVM和scala.js上运行的响应式的web数据绑定框架，这一期请到他向大家介绍什么是响应式编程以及他构思和编写binding.scala的过程。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/08/09/2550186791484021766_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJKVep_0-QuZcpAbgD6ZPtLGY098.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19727007&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group17/M09/83/68/wKgJKVep_0-QuZcpAbgD6ZPtLGY098.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[Binding.scala是杨博开发的一个能在JVM和scala.js上运行的响应式的web数据绑定框架，这一期请到他向大家介绍什么是响应式编程以及他构思和编写binding.scala的过程。 See <a href="http://codetimecn.com/episodes/frp">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:59:23</itunes:duration>
@@ -458,7 +458,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/scala</guid>
 		<description>Scala是一门基于JVM的多范式编程语言。这一期我们请到ThoughtWorks的咨询师 杨云 大魔头诺铁 来分享他多年使用Scala的经验。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/07/28/2547800353036434438_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJKVefFHLQYdMuAYqBW5i8w1c960.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19330908&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group17/M0B/65/3C/wKgJKVefFHLQYdMuAYqBW5i8w1c960.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[Scala是一门基于JVM的多范式编程语言。这一期我们请到ThoughtWorks的咨询师 杨云 大魔头诺铁 来分享他多年使用Scala的经验。 See <a href="http://codetimecn.com/episodes/scala">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:53:14</itunes:duration>
@@ -477,7 +477,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/overflowstack</guid>
 		<description>嘉宾 灵感之源 和我们分享了他囊括了4个技能树的 爆栈 开源项目，以及他自己一生对代码质量狂热的追求，还有移民澳洲的原因及移民后的感受。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/07/17/2545932669326552070_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJJ1efGYWAjn6jAg0_YuJSW6Y533.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19330909&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group20/M07/65/D2/wKgJJ1efGYWAjn6jAg0_YuJSW6Y533.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[嘉宾 灵感之源 和我们分享了他囊括了4个技能树的 爆栈 开源项目，以及他自己一生对代码质量狂热的追求，还有移民澳洲的原因及移民后的感受。 See <a href="http://codetimecn.com/episodes/overflowstack">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>1:10:53</itunes:duration>
@@ -496,7 +496,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/ocaml</guid>
 		<description>OCaml是一门工业上被使用得越来越多的编程语言。这一期我们请到Bloomberg技术专家 OCaml编译器核心开发成员 张宏波 和我们分享这门编程语言的特点。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/07/07/2544024078203592198_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJJ1efJRCATY78Ai4e-37Gkcg361.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19330910&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group20/M00/65/FB/wKgJJ1efJRCATY78Ai4e-37Gkcg361.m4ahttp://jt.ximalaya.com/wKgJJ1efJRCATY78Ai4e-37Gkcg361.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19330910&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group20/M00/65/FB/wKgJJ1efJRCATY78Ai4e-37Gkcg361.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[OCaml是一门工业上被使用得越来越多的编程语言。这一期我们请到Bloomberg技术专家 OCaml编译器核心开发成员 张宏波 和我们分享这门编程语言的特点。 See <a href="http://codetimecn.com/episodes/ocaml">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>1:15:18</itunes:duration>
@@ -515,7 +515,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/fullstack</guid>
 		<description>形式特别的一期，以三个人聊天的方式讨论了全栈工程师这个火热的话题。 如果您喜欢或者不喜欢这个形式都希望您能留言告诉我们。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/06/27/2542186461411893766_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJLFefJnzQsTakAdJQsQBqNlA505.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19330911&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group20/M0B/64/72/wKgJLFefJnzQsTakAdJQsQBqNlA505.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[形式特别的一期，以三个人聊天的方式讨论了全栈工程师这个火热的话题。 如果您喜欢或者不喜欢这个形式都希望您能留言告诉我们。 See <a href="http://codetimecn.com/episodes/fullstack">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>1:02:56</itunes:duration>
@@ -534,7 +534,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/reactjs</guid>
 		<description>很高兴邀请到React中文论坛管理员 题叶 来到代码时间和大家分享React这个Facebook开源的前端框架。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/06/20/2540916229128201734_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJLFefKBHiVcnCAcknmYzqisA265.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19330912&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group20/M03/64/77/wKgJLFefKBHiVcnCAcknmYzqisA265.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[很高兴邀请到React中文论坛管理员 题叶 来到代码时间和大家分享React这个Facebook开源的前端框架。 See <a href="http://codetimecn.com/episodes/reactjs">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:55:42</itunes:duration>
@@ -553,7 +553,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/haskell</guid>
 		<description>这一期请到嘉宾《Haskell函数式编程入门》一书的作者 张淞 介绍了函数式编程的概念以及Haskell这门优秀的编程语言的特点。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/06/16/2540020086348662790_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJJlefKAfQFrLvAE50E1UzNFE767.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19330913&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group19/M07/65/96/wKgJJlefKAfQFrLvAE50E1UzNFE767.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[这一期请到嘉宾《Haskell函数式编程入门》一书的作者 张淞 介绍了函数式编程的概念以及Haskell这门优秀的编程语言的特点。 See <a href="http://codetimecn.com/episodes/haskell">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:59:04</itunes:duration>
@@ -572,7 +572,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/emacs-plugins</guid>
 		<description>这次请到 冯书(tumashu) 来分享他十年来使用Emacs和成为Emacs热门插件制作和维护者的经历。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/06/08/2538633879211296262_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJJVefKzTDzzGDAZy8C9HGCkE209.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19330915&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group18/M09/65/5F/wKgJJVefKzTDzzGDAZy8C9HGCkE209.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[这次请到 冯书(tumashu) 来分享他十年来使用Emacs和成为Emacs热门插件制作和维护者的经历。 See <a href="http://codetimecn.com/episodes/emacs-plugins">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:55:42</itunes:duration>
@@ -591,7 +591,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/git</guid>
 		<description>今天我们请到Atlassian的三位嘉宾Michelle, Alex 和 Mike 分享他们对Git和Git工作流的理解和使用经验。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/06/08/2538633619365771270_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJLFefsDuD64hMAfgQ4lszvGY097.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19342830&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group20/M0A/66/19/wKgJLFefsDuD64hMAfgQ4lszvGY097.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[今天我们请到Atlassian的三位嘉宾Michelle, Alex 和 Mike 分享他们对Git和Git工作流的理解和使用经验。 See <a href="http://codetimecn.com/episodes/git">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>1:08:01</itunes:duration>
@@ -610,7 +610,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/clojure</guid>
 		<description>今天我们请到嘉宾 Loretta 根据她使用Clojure的经验来分析和展开Clojure的各个特点，希望能帮助大家对这门语言有更多的了解。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/06/08/2538633361667732998_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJJ1efrlyBy3DFAcfZ9ooKJw8881.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19342829&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group20/M07/67/AA/wKgJJ1efrlyBy3DFAcfZ9ooKJw8881.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[今天我们请到嘉宾 Loretta 根据她使用Clojure的经验来分析和展开Clojure的各个特点，希望能帮助大家对这门语言有更多的了解。 See <a href="http://codetimecn.com/episodes/clojure">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>1:01:30</itunes:duration>
@@ -629,7 +629,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/design</guid>
 		<description>今天我们要聊的是用户体验和用户设计。 希望和嘉宾 Millie 的聊天能让大家对UX/UI的认识更深一点点。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/06/08/2538633103969693702_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJKVefrLrRjuZ0AXE7mSVJwC0791.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19342828&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group17/M05/67/2E/wKgJKVefrLrRjuZ0AXE7mSVJwC0791.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[今天我们要聊的是用户体验和用户设计。 希望和嘉宾 Millie 的聊天能让大家对UX/UI的认识更深一点点。 See <a href="http://codetimecn.com/episodes/design">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>1:09:52</itunes:duration>
@@ -648,7 +648,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/spacemacs</guid>
 		<description>这一期请到Spacemacs高手 子龙 跟大家介绍Spacemacs这个能几乎完美模拟Vim的Emacs配置。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/06/08/2538632846271653382_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJK1efBtORD6czAY3Ns4X2PHs685.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19330906&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group19/M0B/64/D4/wKgJK1efBtORD6czAY3Ns4X2PHs685.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[这一期请到Spacemacs高手 子龙 跟大家介绍Spacemacs这个能几乎完美模拟Vim的Emacs配置。 See <a href="http://codetimecn.com/episodes/spacemacs">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:27:28</itunes:duration>
@@ -667,7 +667,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/emacs</guid>
 		<description>这一期请到Emacs高手 陈斌 和大家分享他对Emacs的理解, 也谈到了学习自由软件这个理念对他坚持学习Emacs的帮助。 </description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/06/08/2538632545623940614_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJK1efCNDDA9rPAgXQSVwL5NE292.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19330907&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group19/M04/64/DE/wKgJK1efCNDDA9rPAgXQSVwL5NE292.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[这一期请到Emacs高手 陈斌 和大家分享他对Emacs的理解, 也谈到了学习自由软件这个理念对他坚持学习Emacs的帮助。  See <a href="http://codetimecn.com/episodes/emacs">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:25:09</itunes:duration>
@@ -686,7 +686,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/how-to-learn</guid>
 		<description>这一期请到SegmentFault又一红人 余凡 Nightire 分享他是如何用5年时间从&#34;完全不知道编程是什么&#34;到今天公司技术团队的leader。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/06/08/2538632287925901318_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJKVee5sSyEop8Ad5pn5wgZ3g935.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19309492&amp;uid=51547393&amp;jt=http://aod.tx.xmcdn.com/group17/M08/64/8F/wKgJKVee5sSyEop8Ad5pn5wgZ3g935.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[这一期请到SegmentFault又一红人 余凡 Nightire 分享他是如何用5年时间从&#34;完全不知道编程是什么&#34;到今天公司技术团队的leader。 See <a href="http://codetimecn.com/episodes/how-to-learn">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>1:04:34</itunes:duration>
@@ -705,7 +705,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/javascript</guid>
 		<description>JavaScript是代码时间的第一期节目。我们和SegmentFault 社区综合威望NO.1的 怡红公子 一起来聊。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/2016/06/08/2538632030227860998_hd.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJJ1eeYQKjqWUcAWQxroYnaC8836.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19293593&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group20/M06/63/FB/wKgJJ1eeYQKjqWUcAWQxroYnaC8836.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[JavaScript是代码时间的第一期节目。我们和SegmentFault 社区综合威望NO.1的 怡红公子 一起来聊。 See <a href="http://codetimecn.com/episodes/javascript">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:48:03</itunes:duration>
