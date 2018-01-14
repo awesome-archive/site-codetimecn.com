@@ -16,7 +16,7 @@
 	<atom:link href="http://codetimecn.com/podcast.rss" rel="self" type="application/rss+xml" />
 	<link>http://codetimecn.com</link>
 	<description>代码时间是一个面向程序员的中文播客节目, 致力于通过语音的方式传播程序员的正能量</description>
-	<lastBuildDate>Sun, 14 Jan 2018 21:22:58 GMT</lastBuildDate>
+	<lastBuildDate>Sun, 14 Jan 2018 21:26:11 GMT</lastBuildDate>
 	<language>zh</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -539,6 +539,25 @@
         <itunes:summary><![CDATA[很高兴邀请到React中文论坛管理员 题叶 来到代码时间和大家分享React这个Facebook开源的前端框架。 See <a href="http://codetimecn.com/episodes/reactjs">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:55:42</itunes:duration>
 		<itunes:subtitle>很高兴邀请到React中文论坛管理员 题叶 来到代码时间和大家分享React这个Facebook开源的前端框架。</itunes:subtitle>
+		<itunes:author>Xi Xiao</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Haskell番外 - 张淞</title>
+		<link>http://codetimecn.com/episodes/haskell-extra</link>
+		<pubDate>Wed, 15 Jun 2016 00:00:00 GMT</pubDate>
+		<guid isPermaLink="true">http://codetimecn.com/episodes/haskell-extra</guid>
+		<description>录完Haskell一期之后的10分钟对话..</description>
+
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJJlefKAfQFrLvAE50E1UzNFE767.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19330913&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group19/M07/65/96/wKgJJlefKAfQFrLvAE50E1UzNFE767.m4a.mp3" type="audio/mpeg" />
+
+        <itunes:summary><![CDATA[录完Haskell一期之后的10分钟对话.. See <a href="http://codetimecn.com/episodes/haskell-extra">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>0:10:04</itunes:duration>
+		<itunes:subtitle>录完Haskell一期之后的10分钟对话..</itunes:subtitle>
 		<itunes:author>Xi Xiao</itunes:author>
 		<itunes:explicit>clean</itunes:explicit>
 		<itunes:block>no</itunes:block>
