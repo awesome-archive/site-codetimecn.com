@@ -16,7 +16,7 @@
 	<atom:link href="http://codetimecn.com/podcast.rss" rel="self" type="application/rss+xml" />
 	<link>http://codetimecn.com</link>
 	<description>代码时间是一个面向程序员的中文播客节目, 致力于通过语音的方式传播程序员的正能量</description>
-	<lastBuildDate>Sun, 14 Jan 2018 21:11:06 GMT</lastBuildDate>
+	<lastBuildDate>Sun, 14 Jan 2018 21:20:24 GMT</lastBuildDate>
 	<language>zh</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -553,7 +553,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/haskell</guid>
 		<description>这一期请到嘉宾《Haskell函数式编程入门》一书的作者 张淞 介绍了函数式编程的概念以及Haskell这门优秀的编程语言的特点。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJJlefKAfQFrLvAE50E1UzNFE767.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19330913&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group19/M07/65/96/wKgJJlefKAfQFrLvAE50E1UzNFE767.m4a.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJJlefKeHyVg6IAbY4uxd7EbY736.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19330914&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group19/M0B/65/9B/wKgJJlefKeHyVg6IAbY4uxd7EbY736.m4ahttp://jt.ximalaya.com/wKgJJlefKeHyVg6IAbY4uxd7EbY736.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19330914&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group19/M0B/65/9B/wKgJJlefKeHyVg6IAbY4uxd7EbY736.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[这一期请到嘉宾《Haskell函数式编程入门》一书的作者 张淞 介绍了函数式编程的概念以及Haskell这门优秀的编程语言的特点。 See <a href="http://codetimecn.com/episodes/haskell">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:59:04</itunes:duration>
