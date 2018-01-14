@@ -16,7 +16,7 @@
 	<atom:link href="http://codetimecn.com/podcast.rss" rel="self" type="application/rss+xml" />
 	<link>http://codetimecn.com</link>
 	<description>代码时间是一个面向程序员的中文播客节目, 致力于通过语音的方式传播程序员的正能量</description>
-	<lastBuildDate>Sun, 14 Jan 2018 21:20:24 GMT</lastBuildDate>
+	<lastBuildDate>Sun, 14 Jan 2018 21:22:58 GMT</lastBuildDate>
 	<language>zh</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -135,7 +135,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/e_e</guid>
 		<description>Erlang最早是为了电话网络开发而设计的语言，它高并发、热部署的优秀属性近些年得到不少关注。Elixir是一个基于Erlang虚拟机的函数式语言。 这一期Falood跟我们来分享他对这两门语言的理解。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJSVlzuJ-D-hPUAbKCNjzaEBw260.m4a?channel=rss&amp;album_id=4867505&amp;track_id=44800602&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group31/M09/5A/22/wKgJSVlzuJ-D-hPUAbKCNjzaEBw260.m4ahttp://jt.ximalaya.com/wKgJSVlzuJ-D-hPUAbKCNjzaEBw260.m4a?channel=rss&amp;album_id=4867505&amp;track_id=44800602&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group31/M09/5A/22/wKgJSVlzuJ-D-hPUAbKCNjzaEBw260.m4a.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJSVlzuJ-D-hPUAbKCNjzaEBw260.m4a?channel=rss&amp;album_id=4867505&amp;track_id=44800602&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group31/M09/5A/22/wKgJSVlzuJ-D-hPUAbKCNjzaEBw260.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[Erlang最早是为了电话网络开发而设计的语言，它高并发、热部署的优秀属性近些年得到不少关注。Elixir是一个基于Erlang虚拟机的函数式语言。 这一期Falood跟我们来分享他对这两门语言的理解。 See <a href="http://codetimecn.com/episodes/e_e">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:58:46</itunes:duration>
@@ -154,7 +154,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/devops_tooling</guid>
 		<description>Devops 是一个热门但是让人迷惑的技术名词。希望本期节目可以让听众朋友们对 devops经常使用的工具 有一个清晰的认识，进而在自己的团队中推行 devops。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJR1kXTluDqDdxAa0AhFM_SQQ811.m4a?channel=rss&amp;album_id=4867505&amp;track_id=37890611&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group27/M02/A8/BF/wKgJR1kXTluDqDdxAa0AhFM_SQQ811.m4ahttp://jt.ximalaya.com/wKgJR1kXTluDqDdxAa0AhFM_SQQ811.m4a?channel=rss&amp;album_id=4867505&amp;track_id=37890611&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group27/M02/A8/BF/wKgJR1kXTluDqDdxAa0AhFM_SQQ811.m4a.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJR1kXTluDqDdxAa0AhFM_SQQ811.m4a?channel=rss&amp;album_id=4867505&amp;track_id=37890611&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group27/M02/A8/BF/wKgJR1kXTluDqDdxAa0AhFM_SQQ811.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[Devops 是一个热门但是让人迷惑的技术名词。希望本期节目可以让听众朋友们对 devops经常使用的工具 有一个清晰的认识，进而在自己的团队中推行 devops。 See <a href="http://codetimecn.com/episodes/devops_tooling">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:57:53</itunes:duration>
@@ -553,7 +553,7 @@
 		<guid isPermaLink="true">http://codetimecn.com/episodes/haskell</guid>
 		<description>这一期请到嘉宾《Haskell函数式编程入门》一书的作者 张淞 介绍了函数式编程的概念以及Haskell这门优秀的编程语言的特点。</description>
 
-        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJJlefKeHyVg6IAbY4uxd7EbY736.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19330914&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group19/M0B/65/9B/wKgJJlefKeHyVg6IAbY4uxd7EbY736.m4ahttp://jt.ximalaya.com/wKgJJlefKeHyVg6IAbY4uxd7EbY736.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19330914&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group19/M0B/65/9B/wKgJJlefKeHyVg6IAbY4uxd7EbY736.m4a.mp3" type="audio/mpeg" />
+        <enclosure url="http://media.blubrry.com/codetimecn/cdn5.lizhi.fm/audio/http://jt.ximalaya.com/wKgJJlefKeHyVg6IAbY4uxd7EbY736.m4a?channel=rss&amp;album_id=4867505&amp;track_id=19330914&amp;uid=51547393&amp;jt=http://audio.xmcdn.com/group19/M0B/65/9B/wKgJJlefKeHyVg6IAbY4uxd7EbY736.m4a.mp3" type="audio/mpeg" />
 
         <itunes:summary><![CDATA[这一期请到嘉宾《Haskell函数式编程入门》一书的作者 张淞 介绍了函数式编程的概念以及Haskell这门优秀的编程语言的特点。 See <a href="http://codetimecn.com/episodes/haskell">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration>0:59:04</itunes:duration>
